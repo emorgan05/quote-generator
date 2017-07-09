@@ -1,0 +1,29 @@
+html, body {
+  font-family: 'Hind', sans-serif;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+#quotebox {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  background-color: #30F7FF;
+  color: black;
+}
+
+#border {
+  border-top: 2px solid #4323E8;
+  border-bottom: 2px solid #4323E8;
+  padding: 24px;
+}
+
+.row {
+  padding-top: 18px;
+}
+
+.btn {
+  background-color: #4323E8;
+  color: white;
+}
